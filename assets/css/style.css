@@ -108,11 +108,11 @@ theme.
   }
   .app-eight-home::selection {
     color: #ffffff;
-    background-color: #6e3ebf;
+    background-color: #1c214c;
   }
   .app-eight-home::-moz-selection {
     color: #ffffff;
-    background-color: #6e3ebf;
+    background-color: #1c214c;
   }
   .app-eight-home .container {
     max-width: 1200px;
@@ -224,7 +224,7 @@ theme.
     position: fixed;
     border-radius: 100%;
     line-height: 55px;
-    background-image: linear-gradient(-45deg, #e511e6 32%, #6b2c94 100%);
+    background-image: linear-gradient(-45deg, #0066ff 32%, #1c214c 100%);
   }
   .ei-scrollup i {
     color: #fff;
@@ -291,7 +291,7 @@ theme.
     left: 10px;
     width: 12px;
     height: 12px;
-    background-color: #ff00d6;
+    background-color: #0066ff;
   }
 
   .eight-section-title p {
@@ -653,7 +653,7 @@ Sticky Menu
   border-radius: 50px;
   margin-right: 20px;
   border-top-right-radius: 0;
-  background-color: #ff00d6;
+  background-color: #0066ff;
 }
 
 .eight-banner-section .eight-banner-content .banner-content-box .ei-banner-btn a:nth-child(1) i {
@@ -1301,7 +1301,7 @@ Sticky Menu
 
 .eg-fun-fact-section .eg-funfact-text .fun-fact-counter .eg-counter-number:nth-child(2) .odometer,
 .eg-fun-fact-section .eg-funfact-text .fun-fact-counter .eg-counter-number:nth-child(2) strong {
-  color: #ff00d6;
+  color: #0066ff;
 }
 
 .eg-fun-fact-section .eg-funfact-text .fun-fact-counter .eg-counter-number:nth-child(3) .odometer,
@@ -3428,12 +3428,12 @@ Sticky Menu
 
 .appseo-home::selection {
   color: #ffffff;
-  background-color: #6e3ebf;
+  background-color: #1c214c;
 }
 
 .appseo-home::-moz-selection {
   color: #ffffff;
-  background-color: #6e3ebf;
+  background-color: #1c214c;
 }
 
 .appseo-home .container {
@@ -6303,12 +6303,12 @@ Sticky Menu
 
 .saas-modern::selection {
   color: #ffffff;
-  background-color: #6e3ebf;
+  background-color: #1c214c;
 }
 
 .saas-modern::-moz-selection {
   color: #ffffff;
-  background-color: #6e3ebf;
+  background-color: #1c214c;
 }
 
 .saas-modern-preloader {
@@ -8514,12 +8514,12 @@ Sticky Menu
 
 .saas-classic::selection {
   color: #ffffff;
-  background-color: #6e3ebf;
+  background-color: #1c214c;
 }
 
 .saas-classic::-moz-selection {
   color: #ffffff;
-  background-color: #6e3ebf;
+  background-color: #1c214c;
 }
 
 .saas-classic-preloader {
@@ -8547,7 +8547,7 @@ Sticky Menu
   position: fixed;
   border-radius: 100%;
   line-height: 55px;
-  background-image: linear-gradient(-45deg, #e511e6 32%, #6b2c94 100%);
+  background-image: linear-gradient(-45deg, #0066ff 32%, #1c214c 100%);
 }
 
 .saas-classic-scrollup i {
@@ -8670,7 +8670,7 @@ Sticky Menu
 .saas_two_banner_section .s2-banner_content .banner_btn a i,
 .saas_two_feature_section .s2-feature_text .saas_btn a i,
 .s2-pricing_section .s2-pricing_item .s2-pricing_btn a i {
-  background: linear-gradient(-45deg, #6b2c94 32%, #fc01fd 100%);
+  background: linear-gradient(-45deg, #1c214c 32%, #fc01fd 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
@@ -9150,7 +9150,7 @@ Sticky Menu
   border-radius: 10px;
   position: absolute;
   transition: 0.5s all ease-in-out;
-  background-image: linear-gradient(45deg, #fc01fd 32%, #6b2c94 100%);
+  background-image: linear-gradient(45deg, #fc01fd 32%, #1c214c 100%);
 }
 
 .saas_two_service_section .service_content_box:after {
@@ -9781,7 +9781,7 @@ Sticky Menu
   border-radius: 8px;
   transform: scale(0.5);
   transition: 0.4s all ease-in-out;
-  background-image: linear-gradient(-45deg, #e511e6 32%, #6b2c94 100%);
+  background-image: linear-gradient(-45deg, #0066ff 32%, #1c214c 100%);
 }
 
 .s2-pricing_section .s2-pricing_item .s2-pricing_price .s2-pricing_text {
@@ -15773,7 +15773,7 @@ div#preloader {
 }
 /*** Start Of blog Section ***/
 .saasio-breadcurmb-section {
-  background-color: #6c2b95;
+  background-color: #1c214c;
   padding: 260px 0px 150px
 }
 .breadcurmb-title h2 {
@@ -16209,12 +16209,12 @@ SaaSio - HR Management
 
 .pm-home::selection {
   color: #ffffff;
-  background-color: #6e3ebf;
+  background-color: #1c214c;
 }
 
 .pm-home::-moz-selection {
   color: #ffffff;
-  background-color: #6e3ebf;
+  background-color: #1c214c;
 }
 
 .pm-preloader {

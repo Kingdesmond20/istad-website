@@ -825,13 +825,13 @@ select:visited {
   font-size: 14px;
 }
 .cyb-service-innerbox .cyb-service-text .cyb-feature-more:hover {
-  border: 2px solid #9d3ade;
-  background-color: #9d3ade;
+  border: 2px solid #0066ff;
+  background-color: #0066ff;
   color: #fff;
 }
 .cyb-service-innerbox:hover {
   transform: translateY(-15px);
-  box-shadow: 0px 25px 40px 0px rgba(22, 0, 37, 0.15);
+  box-shadow: 0px 25px 40px 0px rgba(22, 0, 37, 0.149);
 }
 .cyb-service-innerbox:hover:before {
   width: 100%;
@@ -877,136 +877,11 @@ select:visited {
   transition: 0.3s all ease-in-out;
 }
 .cyb-ctac-content .cyb-cta-btn:hover {
-  background-color: #9d3ade;
+  background-color: #0066ff;
 }
 .cyb-ctac-content .cyb-cta-btn a {
   width: 100%;
   display: block;
-}
-
-/*---------------------------------------------------- */
-/*Pricing area*/
-/*----------------------------------------------------*/
-.cyb-pricing-section {
-  padding: 90px 0px 120px;
-}
-.cyb-pricing-section .cyb-pricing-content {
-  padding-top: 50px;
-}
-
-.cyb-pricing_item {
-  margin: 0 auto;
-  overflow: hidden;
-  max-width: 330px;
-  padding: 30px 0px 5px;
-  transition: 0.4s all ease-in-out;
-  box-shadow: 0px 11px 40px 0px rgba(22, 0, 37, 0.05);
-}
-.cyb-pricing_item .cyb-pricing_price {
-  z-index: 1;
-  margin-bottom: 10px;
-}
-.cyb-pricing_item .cyb-pricing_price .pricing_icon svg {
-  fill: #000;
-  width: 40px;
-  height: 40px;
-}
-.cyb-pricing_item .cyb-pricing_price .cyb-pricing_text {
-  color: #000;
-  font-family: "Poppins";
-}
-.cyb-pricing_item .cyb-pricing_price .cyb-pricing_text span {
-  display: block;
-  color: #0066ff;
-  font-size: 20px;
-  font-weight: 600;
-}
-.cyb-pricing_item .cyb-pricing_price .cyb-pricing_text strong {
-  font-size: 50px;
-  line-height: 1;
-  font-weight: 700;
-}
-.cyb-pricing_item .cyb-pricing_list li {
-  border-bottom: 1px solid #e6e8e9;
-  padding: 18px 25px 16px 45px;
-  font-family: "Poppins";
-  font-weight: 500;
-  font-size: 14px;
-}
-.cyb-pricing_item .cyb-pricing_list li:last-child {
-  border: none;
-  padding-bottom: 0;
-}
-.cyb-pricing_item .cyb-pricing_list .cyb-checked,
-.cyb-pricing_item .cyb-pricing_list .cyb-unchecked {
-  width: 22px;
-  height: 22px;
-  margin-right: 10px;
-  border-radius: 100%;
-  line-height: 22px;
-  position: relative;
-  box-shadow: #1c214c;
-  background-image: linear-gradient(
-    0deg,
-    #1c214c 1%,
-    #1c214c 53%,
-    #1c214c 100%
-  );
-}
-.cyb-pricing_item .cyb-pricing_list .cyb-checked:before,
-.cyb-pricing_item .cyb-pricing_list .cyb-unchecked:before {
-  top: 0;
-  left: 0;
-  right: 0;
-  color: #fff;
-  font-size: 12px;
-  content: "";
-  font-weight: 900;
-  text-align: center;
-  position: absolute;
-  font-family: "Font Awesome 5 Free";
-}
-.cyb-pricing_item .cyb-pricing_list .cyb-checked i,
-.cyb-pricing_item .cyb-pricing_list .cyb-unchecked i {
-  color: #fff;
-  font-size: 12px;
-}
-.cyb-pricing_item .cyb-pricing_list .cyb-unchecked {
-  background-color: #ff0000;
-  background-image: none;
-  box-shadow: none;
-}
-.cyb-pricing_item .cyb-pricing_list .cyb-unchecked:before {
-  content: "";
-}
-.cyb-pricing_item .cyb-pricing_btn {
-  margin-top: 8px;
-  padding: 25px 0px;
-  text-align: center;
-}
-.cyb-pricing_item .cyb-pricing_btn a {
-  height: 48px;
-  width: 160px;
-  color: #010101;
-  font-weight: 700;
-  line-height: 45px;
-  text-align: center;
-  margin-right: 20px;
-  font-family: "Poppins";
-  display: inline-block;
-  border: 2px solid #9d3ade;
-  transition: 0.3s all ease-in-out;
-}
-.cyb-pricing_item .cyb-pricing_btn a i {
-  font-size: 20px;
-  margin-right: 8px;
-}
-.cyb-pricing_item .cyb-pricing_btn a:hover {
-  color: #fff;
-  background-color: #9d3ade;
-}
-.cyb-pricing_item:hover {
-  box-shadow: 0px 25px 40px 0px rgba(22, 0, 37, 0.15);
 }
 
 /*---------------------------------------------------- */
@@ -1064,7 +939,7 @@ select:visited {
   transition: 0.3s all ease-in-out;
 }
 .cyb-subscribe-content .cyb-subscribe-form button:hover {
-  background-color: #9d3ade;
+  background-color: #0066ff;
 }
 
 /*---------------------------------------------------- */
@@ -1211,7 +1086,7 @@ select:visited {
   transition: 0.3s all ease-in-out;
 }
 .cyb-footer_widget .cyb-footer_social form button:hover {
-  background-color: #9d3ade;
+  background-color: #0066ff;
 }
 .cyb-footer_widget .cyb-footer_social .fb-bg {
   color: #16599b;
